@@ -236,12 +236,17 @@ body {
 }
 
 .projects_content h1 {
-    padding-top: 3px;
+    padding-top: 5px;
+}
+
+.projects_content hr {
+    margin: 3px;
 }
 
 .projects_container img {
     border-radius: 5px;
     width: 100%;
+    margin-bottom: 2px;
 }
 
 /*Footer*/
